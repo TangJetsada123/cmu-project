@@ -48,5 +48,4 @@ const SettingPage: React.FC = () => {
     </div>
   );
 };
-
 export default SettingPage;
